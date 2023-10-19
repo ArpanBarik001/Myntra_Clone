@@ -1,0 +1,32 @@
+.flex{
+    display:flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+.font{
+    font-weight: bold;
+}
+
+.space-between{
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.section1{
+    background-color: rgb(228, 219, 219);
+}
+.flex_wrap{
+    flex-wrap: wrap;
+}
